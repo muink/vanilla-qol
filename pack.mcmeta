@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "supported_formats": [8, 55],
+    "description":"Vanilla QOL\n§71.18.x - 1.21.x"
+  }
+}
